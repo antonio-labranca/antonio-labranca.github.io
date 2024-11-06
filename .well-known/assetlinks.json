@@ -1,0 +1,15 @@
+[
+  {
+    "relation" : [
+      "delegate_permission/common.handle_all_urls",
+      "delegate_permission/common.get_login_creds"
+    ],
+    "target" : {
+      "namespace" : "MyFood",
+      "package_name" : "com.myfood.mobile",
+      "sha256_cert_fingerprints" : [
+        "f0:71:d8:2c:9f:d0:fb:05:fa:69:8e:b9:93:30:f6:d2:6e:71:bd:df:77:88:1e:8e:65:65:6f:13:a9:07:5f:45"
+      ]
+    }
+  }
+]
